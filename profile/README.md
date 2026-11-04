@@ -26,6 +26,6 @@ Individual AI agents, each built for one specific task, subscribed monthly and d
 
 SocioFi is an AI-agent-native software company. AI agents handle the heavy lifting, and human engineers architect, review and keep everything running.
 
-[Technology](https://github.com/SocioFi-Technology) · [Academy](https://github.com/SocioFi-Academy) · [Cloud](https://github.com/SocioFi-Cloud) · [Labs](https://github.com/SocioFi-Labs) · [Products](https://github.com/SocioFi-Product) · [Security](https://github.com/SocioFi-Security) · [Services](https://github.com/SocioFi-Services) · [Studio](https://github.com/SocioFi-Studio) · [Ventures](https://github.com/SocioFi-Ventures)
+[Technology](https://github.com/SocioFi-Technology) · [Academy](https://github.com/SocioFi-Academy) · [Cloud](https://github.com/SocioFi-Cloud) · [Labs](https://github.com/SocioFi-Labs) · [Products](https://github.com/SocioFi-Products) · [Security](https://github.com/SocioFi-Security) · [Services](https://github.com/SocioFi-Services) · [Studio](https://github.com/SocioFi-Studio) · [Ventures](https://github.com/SocioFi-Ventures)
 
 <sub>SocioFi Technology · Dhaka, Bangladesh · Intelligent Systems. Autonomous Results.</sub>
